@@ -15,4 +15,5 @@ Class EmailParser
       email.split(",")
   end
     .flatten.uniq
+  end
 end
