@@ -10,3 +10,5 @@ Class EmailParser
     @email = email
   end
   
+  def parse
+    email.do 
