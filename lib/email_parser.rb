@@ -13,3 +13,4 @@ Class EmailParser
   def parse
     email.split.map do |email|
       email.split(",")
+  end
